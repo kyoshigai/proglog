@@ -1,4 +1,4 @@
-module github.com/k-yoshigai/proglog
+module github.com/kyoshigai/proglog
 
 go 1.18
 
