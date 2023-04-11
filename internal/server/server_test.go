@@ -6,8 +6,8 @@ import (
 	"net"
 	"testing"
 
-	api "github.com/k-yoshigai/proglog/api/v1"
-	"github.com/k-yoshigai/proglog/internal/log"
+	api "github.com/kyoshigai/proglog/api/v1"
+	"github.com/kyoshigai/proglog/internal/log"
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc"
 )

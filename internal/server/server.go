@@ -3,7 +3,7 @@ package server
 import (
 	"context"
 
-	api "github.com/k-yoshigai/proglog/api/v1"
+	api "github.com/kyoshigai/proglog/api/v1"
 	"google.golang.org/grpc"
 )
 
